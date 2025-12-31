@@ -10,6 +10,6 @@ void loop() {
   // delay(1000);
   // digitalWrite(2, LOW);
   // delay(1000);
-  Serial.println("Hello,World!");
+  Serial.println("Happy New Year 2026");
   delay(1000);
 }
